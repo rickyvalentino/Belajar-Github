@@ -1,5 +1,5 @@
 15 April 2021 mulai mempelajari tentang git dan github
 teori tentang git dan github
-pengertian version control system
 Git sebagai salah satu software yang melakukan vcs atau version control system
 github merupakan versi website atau online dari git
+git berfungsi untuk mengelola dokumen dengan efektif
